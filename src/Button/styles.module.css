@@ -1,0 +1,53 @@
+/* Default values */
+.skbutton {
+  border-radius: 8px;
+  background-color: #fff;
+  color: #2563eb;
+  border: 1px solid #2563eb;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+  opacity: 1;
+  transition: all ease 500ms;
+  font-weight: 200;
+  font-size: 14px;
+}
+/* Primary */
+.skbuttonPrimary {
+  border: none;
+  color: #fff;
+  background-color: #2563eb;
+}
+/* Success */
+.skbuttonSuccess {
+  border: none;
+  color: #fff;
+  background-color: #16a34a;
+}
+/* Danger */
+.skbuttonDanger {
+  border: none;
+  color: #fff;
+  background-color: #dc2626;
+}
+
+/* Text */
+.skbuttonText {
+  border: none;
+  color: #000;
+  background-color: transparent;
+}
+
+.skbutton:hover {
+  transition: all ease 500ms;
+  opacity: 0.8;
+}
+.skbuttonText:hover{
+  background-color: #dbeafe !important;
+}
