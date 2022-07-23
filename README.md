@@ -19,6 +19,10 @@ import SK from 'sk-react-components'
 import 'sk-react-components/dist/index.css'
 
 const App = () => {
+
+  SK.UseMount(()=>{
+   /* Run and render only one time similar to useEffect */ 
+  })
   return (
     <div style={{ flexDirection: 'column', alignItems: 'center', justifyContent: 'center', display: 'flex', flex: 1, height: '100vh' }}>
       <SK.SKButton onClick={() => { console.log('Default') }} text="Default" />

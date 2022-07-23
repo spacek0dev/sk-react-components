@@ -1,6 +1,7 @@
 import React from 'react'
 import { SKButton } from './Button'
 import { SKCard } from './Card'
+import UseMount from './hooks/useMount'
 import styles from './styles.module.css'
 
 const getChildrenOnDisplayName = (children, displayName) => {
@@ -21,5 +22,6 @@ const SK = () => {
 }
 SK.SKCard = SKCard;
 SK.SKButton = SKButton;
+SK.UseMount = UseMount;
 
 export default SK;
