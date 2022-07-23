@@ -1,6 +1,6 @@
 # sk-react-components
 
-> Made with create-react-library
+> A Simple React Components
 
 [![NPM](https://img.shields.io/npm/v/sk-react-components.svg)](https://www.npmjs.com/package/sk-react-components) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -42,6 +42,4 @@ export default App
 
 ```
 
-## License
-
-MIT © [aapa96](https://github.com/aapa96)
+Alex Paredes[aapa96](https://github.com/aapa96)

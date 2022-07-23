@@ -3,6 +3,7 @@
   "version": "0.0.5",
   "description": "Made with create-react-library",
   "author": "aapa96",
+  "keywords": ["react","components"],
   "license": "MIT",
   "repository": "https://github.com/spacek0dev/sk-react-components.git",
   "main": "dist/index.js",
