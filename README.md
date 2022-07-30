@@ -42,4 +42,4 @@ export default App
 
 ```
 
-Alex Paredes[aapa96](https://github.com/aapa96)
+Alex Paredes - [aapa96](https://github.com/aapa96)
